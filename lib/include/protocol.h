@@ -1,3 +1,4 @@
+#pragma once
 #include <cstdint>
 
 /* Values used for protocol ID and type. */
